@@ -3,6 +3,7 @@
 Unity 개발자로 커리어를 시작하여 웹 개발에 도전하고 있습니다.
 #    
 <b>Education</b>
+
 🎓 Hankuk University of Foreign Studies  
 📖 Codestates SEB(Software Engineering Bootcamp) 34기(2021.08 ~ 2022.02)
 #  
