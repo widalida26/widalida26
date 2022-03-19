@@ -21,7 +21,7 @@ Spring을 이용한 백엔드 개발을 공부하고 있습니다.
 
 [Solutionist](https://solutionist.site) ([Repository](https://github.com/widalida26/solutionist))
 
-Solutionist는 문제를 만들고, 풀고, 만들어진 문제들을 이용자들이 수정 및 공유할 수 있는 교육 웹서비스입니다.  
+Solutionist는 문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
 저는 백엔드 파트를 담당하였고, API 및 DB 스키마 설계, 배포를 맡았으며,  
 구현한 기능은 문제 제작, 수정, 삭제, 정렬, 통계, 버전관리입니다.
 
