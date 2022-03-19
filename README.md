@@ -14,9 +14,8 @@ Unity 개발자로 커리어를 시작하여 웹 개발에 도전하고 있습�
 #
 <b>Project</b>
 
-[repository](https://github.com/widalida26/solutionist)
-
-[service](https://solutionist.site)
+Solutionist
+[repository](https://github.com/widalida26/solutionist) [service](https://solutionist.site)
 
 #    
 <b>Education</b>
