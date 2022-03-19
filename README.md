@@ -17,7 +17,8 @@ Unity 개발자로 커리어를 시작하여 웹 개발에 도전하고 있습�
 [Solutionist](https://solutionist.site) / [repository](https://github.com/widalida26/solutionist)
 
 Solutionist는 문제를 만들고, 풀고, 만들어진 문제들을 모든 이용자가 수정 및 공유할 수 있는 교육 웹서비스입니다.
-저는 백엔드 파트를 맡아 REST API 설계, DB 스키마 설계, AWS를 이용한 배포 파트와 문제 저장, 수정, 삭제, 정렬, 통계, 버전관리 기능을 담당하였습니다.
+
+저는 백엔드 파트로 REST API 설계, DB 스키마 설계, AWS를 이용한 배포와 문제 저장, 수정, 삭제, 정렬, 통계, 버전관리 기능을 담당하였습니다.
 
 
 #    
