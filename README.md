@@ -14,7 +14,7 @@ Spring을 이용한 백엔드 개발을 공부하고 있습니다.
 
 <b>DB</b>
 
-<img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/TypeORM-E83524?style=flat-square">
 
 <b>3D Engine</b>
 
