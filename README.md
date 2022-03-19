@@ -14,7 +14,7 @@ Unity 개발자로 커리어를 시작하여 웹 개발에 도전하고 있습�
 #
 <b>Project</b>
 
-[Solutionist](https://solutionist.site) / [repository](https://github.com/widalida26/solutionist)
+[Solutionist](https://solutionist.site)([Repository](https://github.com/widalida26/solutionist))
 
 Solutionist는 문제를 만들고, 풀고, 만들어진 문제들을 모든 이용자가 수정 및 공유할 수 있는 교육 웹서비스입니다.
 
