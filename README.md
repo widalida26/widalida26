@@ -16,7 +16,7 @@ Unity 개발자로 커리어를 시작하여 웹 개발에 도전하고 있습�
 
 [Solutionist](https://solutionist.site) ([Repository](https://github.com/widalida26/solutionist))
 
-Solutionist는 문제를 만들고, 풀고, 만들어진 문제들을 모든 이용자가 수정 및 공유할 수 있는 교육 웹서비스입니다.
+Solutionist는 문제를 만들고, 풀고, 만들어진 문제들을 모든 이용자가 수정 및 공유할 수 있는 교육 웹서비스입니다.  
 제 파트는 백엔드로, REST API 설계, DB 스키마 설계, AWS를 이용한 배포와 문제 제작, 수정, 삭제, 정렬, 통계, 버전관리 기능을 맡았습니다.
 
 
