@@ -30,6 +30,6 @@ Solutionist는 문제를 만들고, 풀고, 수정하고, 공유할 수 있는 �
 <b>Education</b>
 
 🎓 Hankuk University of Foreign Studies  
-📖 Codestates SEB(Software Engineering Bootcamp) 34기(2021.08 ~ 2022.02)
+📖 Codestates SEB(Software Engineering Bootcamp)
 #  
 
