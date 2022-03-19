@@ -23,7 +23,7 @@ Spring을 이용한 백엔드 개발을 공부하고 있습니다.
 #
 <b>Project</b>
 
-Solutionist. 
+- Solutionist.  
 [Service](https://solutionist.site)  /  [Repository](https://github.com/widalida26/solutionist)
 
 Solutionist는 문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
