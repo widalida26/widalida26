@@ -25,7 +25,7 @@ Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc
 #
 <b>Project</b>
 
-###<b>[Solutionist](https://solutionist.site)</b>    
+### <b>[Solutionist](https://solutionist.site)</b>    
 
   4 weeks | 4 members | 2022  
   
