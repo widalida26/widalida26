@@ -26,7 +26,7 @@ Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc
 <b>Project</b>
 
 - <b>Solutionist</b>  
-  [Service](https://solutionist.site)  /  [Repository](https://github.com/widalida26/solutionist))  
+  [Service](https://solutionist.site)  |  [Repository](https://github.com/widalida26/solutionist)  
   문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
 
   *4 weeks / 4 members / 2022*  
