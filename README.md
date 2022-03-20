@@ -1,5 +1,5 @@
 ## 위다빈 WI DABIN
-개발이 좋은 개발자입니다.  
+깔끔한 코드를 지향하는 개발자입니다.  
 Unity/C# 개발자로 커리어를 시작하여 웹 개발에 도전중입니다.  
 Spring을 이용한 백엔드 개발을 공부하고 있습니다. 
 
@@ -27,6 +27,8 @@ Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc
 
 - <b>Solutionist</b>  
 [Service](https://solutionist.site)  /  [Repository](https://github.com/widalida26/solutionist)
+
+4 weeks / 4 members / 2022
 
   Solutionist는 문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
   저는 백엔드 파트를 담당하였고, API 및 DB 스키마 설계, 배포를 맡았으며,  
