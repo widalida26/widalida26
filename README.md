@@ -6,6 +6,8 @@ Spring을 이용한 백엔드 개발을 공부하고 있습니다.
 Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc78826e819072ee7ba)
 
 #  
+### <b>Tech Stack</b>  
+
 <b>Language</b>
 
 <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -23,10 +25,9 @@ Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc
 <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
 #
-<b>Project</b>
+### <b>Project</b>
 
-### <b>[Solutionist](https://solutionist.site)</b>    
-
+### <b>[Solutionist](https://solutionist.site)</b>  
   4 weeks | 4 members | 2022  
   
   문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
