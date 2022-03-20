@@ -26,7 +26,7 @@ Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc
 <b>Project</b>
 
 - <b>[Solutionist](https://solutionist.site)</b>  
-  4 weeks | 4 members | 2022  |  [repository](https://github.com/widalida26/solutionist)  
+  4 weeks | 4 members | 2022  |  [repo](https://github.com/widalida26/solutionist)  
 
   문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
   저는 백엔드 파트를 담당하였고, API 및 DB 스키마 설계, 배포를 맡았으며,  
