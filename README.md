@@ -3,7 +3,7 @@
 Unity/C# 개발자로 커리어를 시작하여 웹 개발에 도전중입니다.  
 Spring을 이용한 백엔드 개발을 공부하고 있습니다. 
 
-Blog: [DIL](https://widalida26.notion.site/DIL-625479002a954fc78826e819072ee7ba0)
+Blog: [DIL](https://widalida26.notion.site/DIL-625479002a954fc78826e819072ee7ba)
 
 #  
 <b>Language</b>
