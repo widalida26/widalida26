@@ -26,7 +26,8 @@ Blog: [Development I Learned](https://widalida26.notion.site/DIL-625479002a954fc
 <b>Project</b>
 
 - <b>Solutionist</b>  
-  Solutionist는 문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
+  문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
+
   [Service](https://solutionist.site)  /  [Repository](https://github.com/widalida26/solutionist)  
   4 weeks / 4 members / 2022  
 
