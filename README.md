@@ -22,7 +22,7 @@ Dev-Log: https://url.kr/ynca7s
 
 <b>Infra</b>
 
-<img src = "https://img.shields.io/badge/-S3-red.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-EC2-orange.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-ELB-orange.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-Route53-orange.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-RDS-blue.svg?style=for-the-badge">
+<img src = "https://img.shields.io/badge/-EC2-orange.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-ELB-orange.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-Route53-orange.svg?style=for-the-badge"> <img src = "https://img.shields.io/badge/-RDS-blue.svg?style=for-the-badge">
 
 <b>3D Engine</b>
 
