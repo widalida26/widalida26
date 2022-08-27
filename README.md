@@ -1,9 +1,6 @@
 ## 위다빈 WI DABIN
 깔끔한 코드를 지향하는 개발자입니다.  
 Unity/C# 개발자로 커리어를 시작하여 웹 개발에 도전중입니다.  
-
-Dev-Log: https://url.kr/ynca7s
-
 #  
 ### <b>I used</b>  
 
