@@ -24,16 +24,4 @@ Unity/C# 개발자로 커리어를 시작하여 웹 개발에 도전중입니다
 
 <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
-#
-### <b>Project</b>
-
-### <b>[Solutionist](https://solutionist.site)</b>  
-  4 weeks | 4 members | 2022  
-  
-  문제를 만들고, 풀고, 수정하고, 공유할 수 있는 교육 웹서비스입니다.  
-  팀 구성원은 프론트엔드 2명과 백엔드 2명이었고, 저는 백엔드를 담당하였습니다.  
-  저는 API 및 DB 스키마 설계와 AWS를 이용한 배포를 맡았으며,  
-  문제 제작, 수정, 삭제, 정렬, 통계, 버전관리 기능을 구현하였습니다.
-  
-
 
